@@ -75,7 +75,7 @@ Item prices are frozen at the time of order placement. Restaurant price changes 
 ### 1. Clone and Run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shreenikethjoshi/food-delivery-api.git
 cd food-delivery-api
 go mod tidy
 go run main.go
