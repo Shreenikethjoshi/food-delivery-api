@@ -1,0 +1,18 @@
+# Binary
+*.exe
+*.exe~
+
+# Database file (optional — remove this line if you want to include test data)
+*.db
+*.db-shm
+*.db-wal
+
+# Go build cache
+/vendor/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
